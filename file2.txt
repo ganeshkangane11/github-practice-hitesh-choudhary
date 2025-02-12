@@ -1,1 +1,2 @@
 this is my file 2 for git practice.
+added new text to file2.
