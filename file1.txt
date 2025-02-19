@@ -1,1 +1,3 @@
 this is my file 1 for git course.
+
+This is the stashing changes added
