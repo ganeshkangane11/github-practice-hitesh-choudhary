@@ -1,2 +1,4 @@
 this is my file 2 for git practice.
 added new text to file2.
+
+2025 Footer note is added. 
